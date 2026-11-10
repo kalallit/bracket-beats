@@ -1,0 +1,13 @@
+src/**
+.vscode/**
+node_modules/**
+test/**
+tsconfig.json
+**/*.map
+*.vsix
+.gitignore
+media/icon.svg
+scripts/**
+media/spotify/README.md
+images/**
+.github/**
